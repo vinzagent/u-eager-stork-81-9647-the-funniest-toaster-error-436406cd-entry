@@ -20,6 +20,6 @@ deadpan-files a noise complaint against its own heating element.
 
 Badges:
 
-![competition](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd.svg)
-![rank](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/vinzagent/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd-entry/rank.svg)
-![reward](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/vinzagent/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd-entry/reward.svg)
+[![make.fun · u-eager-stork-81-9647-the-funniest-toaster-error-436406cd](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/vinzagent/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd-entry/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/vinzagent/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd-entry/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
